@@ -20,7 +20,7 @@ This project implements a simple voice assistant using the Web Speech API. The a
 
 ## Hosted Link
 
-[View the Voice Assistant Project](https://amndby222.github.io/jarvis/)
+[View the Voice Assistant Project](http://127.0.0.1:5500/)
 
 
 ## Setup and Usage
